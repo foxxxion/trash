@@ -39,7 +39,7 @@
                 return true;
             }
     define('DBUSER','root');
-       define('DBPWD','FLAG{easy_peasy_lemon_squeezy');
+       define('DBPWD','FLAG{easy_peasy_lemon_squeezy}');
           define('DBHOST','localhost');
              define('DBNAME','database name');
         }
